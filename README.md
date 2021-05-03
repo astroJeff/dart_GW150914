@@ -6,4 +6,4 @@ Scripts for the models are found in `scripts/`
 
 Code for recreating figures is found in a Jupyter notebook in `notebooks/`
 
-Please make sure that you use the correct versions of the COSMIC rapid binary evolution code [https://github.com/astroJeff/COSMIC/releases/tag/dart_GW150914](tagged here) and the dart_board statistical wrapper [https://github.com/astroJeff/dart_board/releases/tag/2.0.0](tagged here).
+Please make sure that you use the correct versions of the COSMIC rapid binary evolution code [tagged here](https://github.com/astroJeff/COSMIC/releases/tag/dart_GW150914) and the dart_board statistical wrapper [tagged here](https://github.com/astroJeff/dart_board/releases/tag/2.0.0).
